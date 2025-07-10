@@ -24,3 +24,7 @@ This paper establishes *Geometric Boolean Algebra (GBA)*—a unified framework c
 - **Hardware benefits**: Uniformity | Parallelism | Scalability  
 
 *Breakthrough*: Solves XOR linear inseparability via geometric augmentation. Extensions to quantum systems and ML accelerators demonstrate cross-domain potential.
+
+
+> Gitee: https://gitee.com/HeartOfDeepSeek/geometric-boolean-algebra
+> Github: https://github.com/HeartOfDeepSeek/GeometricBooleanAlgebra
